@@ -10,7 +10,7 @@ Code is run entirely in Jupyter. modules can be run as follows
 1d. RTA_Class_Maps  
 2 . RTA_M25_London  
 
-1a to 1d can be run in any order as they set up the 'wrangled' DataFrames from the original dowloaded sources.
+1a to 1d can be run in any order as they set up the DataFrames 'wrangled' from the original dowloaded sources.
 
 The RTA_M25_London file is standalone and can be run immediately. Unfortunately the RTA_Class_Maps uses a large json file which is blocked from upload to GitHub due to size - even after zipping. However, the reduced shape file needed by the RTA_M25_London processing has been uploaded, as has all the output data needed from the 'Class' files
 
