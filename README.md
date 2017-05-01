@@ -1,5 +1,4 @@
-M #  RTA
-GA Project DAT3. Road Traffic Accidents
+#  RTA GA Project DAT3. Road Traffic Accidents
 
 Please read the Project Background,ipynb (Jupyter) docuemnt for details about the project.
 
