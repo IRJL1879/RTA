@@ -5,7 +5,7 @@ Please read the Project Background,ipynb (Jupyter) docuemnt for details about th
 
 Code is run entirely in Jupyter. modules can be run as follows
 
-1a. RTA_Class_accidents
+1a. RTA_Class_accidents  
 1b. RTA_Class_Vehicles  
 1c. RTA_Class_casualties  
 1d. RTA_Class_Maps  
