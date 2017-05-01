@@ -1,9 +1,9 @@
-# RTA
+#  RTA
 GA Project DAT3. Road Traffic Accidents
 
 Please read the Project Background,ipynb (Jupyter) docuemnt for details about the project.
 
-Code is run entirely in Jupyter. modules ca nbe run as follows
+Code is run entirely in Jupyter. modules can be run as follows
 
 1a. RTA_Class_accidents
 1b. RTA_Class_Vehicles
