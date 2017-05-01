@@ -1,0 +1,17 @@
+﻿field_name,length,import,field_descriptor,type
+Accident_Index,0,Y,accident_index,object
+Vehicle_Reference,0,Y,vehicle_reference,int
+Casualty_Reference,0,Y,casualty_reference,int
+Casualty_Class,0,Y,casualty_class,int
+Sex_of_Casualty,0,Y,sex_of_casualty,int
+Age_of_Casualty,0,Y,age_of_casualty,int
+Age_Band_of_Casualty,0,Y,age_band_of_casualty,int
+Casualty_Severity,0,N,casualty_severity,int
+Pedestrian_Location,0,N,pedestrian_location,int
+Pedestrian_Movement,0,N,pedestrian_movement,int
+Car_Passenger,0,N,car_passenger,int
+Bus_or_Coach_Passenger,0,N,bus_or_coach_passenger,int
+Pedestrian_Road_Maintenance_Worker,0,N,pedestrian_road_maintenance_worker,int
+Casualty_Type,0,N,casualty_type,int
+Casualty_Home_Area_Type,0,N,casualty_home_area_type,int
+Casualty_IMD_Decile,0,N,casualty_imd_decile,int
